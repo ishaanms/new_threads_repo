@@ -1,2 +1,6 @@
-New Threads Clone App
-can be viewed at: https://new-threads-repo-gywu5o49i-ishaanms-projects.vercel.app
+# THREADS_clone
+This is a threads clone.View it here :point_down:<br/>
+[https://shareme-clone-ism.netlify.app](https://new-threads-repo-gywu5o49i-ishaanms-projects.vercel.app)<br/>
+
+Built using React, Next JS, TypeScript, MongoDB, Tailwind CSS
+
